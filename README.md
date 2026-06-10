@@ -66,7 +66,7 @@ Com a estrutura pronta, solicitei ao NotebookLM a geração de um miniguia segui
 
 # 📘 Miniguia completo:
 
-## Guia Estratégico de Prosperidade: Carreira, Finanças e Realização de Sonhos
+## Título: Guia Estratégico de Prosperidade: Carreira, Finanças e Realização de Sonhos
 
 A educação financeira no contexto brasileiro não deve ser encarada como uma mera lista de restrições ou privações, mas sim como uma ferramenta fundamental de liberdade e autonomia estratégica. Para o jovem que inicia sua trajetória, o domínio sobre os recursos funciona como um mapa de navegação: ele permite converter o suor do trabalho em projetos concretos, garantindo que você seja o autor da sua própria história, com segurança contra imprevistos e poder real de escolha.
 
