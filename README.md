@@ -2,8 +2,8 @@
 
 Projeto integrante do curso de IA Generativa no Bootcamp Bradesco na plataforma DIO. Criação de um miniguia sobre um assunto financeiro utilizando a ferramente NotebookLM, reunindo de 3 a 5 fontes abertas.
 
-* **Tema escolhido:** Finanças - um guia para a vida adulta
-* **Objetivo:** um miniguia com conceitos e práticas para uma boa administração de finanças
+* **Tema escolhido:** Finanças - um guia básico para a vida adulta
+* **Objetivo:** um miniguia com conceitos e práticas para uma boa administração das finanças:
 * **Público alvo:** adolescentes/jovens brasileiros que estão concluindo o Ensino Médio, ingressando no Ensino Superior ou iniciando em seu primeiro emprego.
 
 ### 🎥 Fontes de vídeo:
@@ -18,8 +18,6 @@ Projeto integrante do curso de IA Generativa no Bootcamp Bradesco na plataforma 
 ---
 
 ## 🤖 Principais Prompts e respostas no desenvolvimento do projeto:
-
----
 
 ### Prompt inicial para seleção de fontes
 
@@ -66,7 +64,7 @@ Com a estrutura pronta, solicitei ao NotebookLM a geração de um miniguia segui
 
 # 📘 Miniguia completo:
 
-A leitura pode ser feita aqui no README.md ou no PDF gerado pelo Gemini, que se encontra neste repositório: [Acessar PDF](https://github.com/marcosilvafilho/miniguia-financeiro-projeto-dio/blob/main/miniguia_estrategico_prosperidade.pdf)
+> A leitura pode ser feita aqui no README.md ou no PDF, de formatação agradável, gerado pelo Gemini, que também se encontra neste repositório: [Acessar PDF](https://github.com/marcosilvafilho/miniguia-financeiro-projeto-dio/blob/main/miniguia_estrategico_prosperidade.pdf)
 
 ## Título: Guia Estratégico de Prosperidade: Carreira, Finanças e Realização de Sonhos
 
