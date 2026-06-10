@@ -1,6 +1,6 @@
 # Miniguia financeiro - Projeto Bootcamp Bradesco - Plataforma DIO
 
-Projeto integrante do curso de IA Generativa no Bootcamp Bradesco na plataforma DIO. Criação de um miniguia sobre um assunto financeiro utilizando a ferramente NotebookLM, reunindo de 3 a 5 fontes abertas.
+Projeto integrante do curso de IA Generativa no Bootcamp Bradesco na plataforma DIO. Criação de um miniguia sobre um assunto financeiro utilizando a ferramenta NotebookLM, reunindo de 3 a 5 fontes abertas.
 
 * **Tema escolhido:** Finanças - um guia básico para a vida adulta
 * **Objetivo:** um miniguia com conceitos e práticas para uma boa administração das finanças:
